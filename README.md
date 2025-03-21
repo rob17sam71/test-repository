@@ -1,4 +1,5 @@
 # test-repository
 description 
 
-new edit from local computer
+ 
+delete and add 
